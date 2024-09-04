@@ -1,9 +1,9 @@
 
 <p align="left">
   
-- 👦 Eu sou <strong>Matheus Lucena</strong> de <strong>Brasil</strong>
+- 👦 Eu sou <strong>Matheus Lucena</strong> de <strong>Brasil</strong> <img src="https://cdn.pixabay.com/photo/2021/03/13/01/27/pixel-art-6090862_960_720.png" width="30">
 
-- 🔭 <strong>Informações sobre sua faculdade/curso</strong>
+- 🔭 <strong>Senac college/Systems analysis and development</strong>
 
 - 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
 
