@@ -5,7 +5,7 @@
 
 - 🔭 <strong>Senac college/Systems analysis and development</strong>
 
-- 🌱 <strong>Informaçẽos sobre o que você está estudando no momento (Áreas, linguagens)</strong>
+- 🌱 <strong> data science, backend (Áreas, linguagens)</strong>
 
 - 👯 Eu estou procurando colaborar em projetos open source.
 
